@@ -61,7 +61,7 @@ public class Util
         TimeSpan ts = new TimeSpan(DateTime.UtcNow.Ticks - new DateTime(1970, 1, 1, 0, 0, 0).Ticks);
         return (long)ts.TotalMilliseconds;
     }
-
+    /*
     /// <summary>
     /// 获得Component
     /// </summary>
@@ -93,7 +93,7 @@ public class Util
     {
         return go.transform.Find(subNode).GetComponent<T>();
     }
-
+    
     /// <summary>
     /// 添加Component
     /// </summary>
@@ -128,7 +128,7 @@ public class Util
     {
         return Add<T>(go.gameObject);
     }
-
+    
     /// <summary>
     /// 查找子go
     /// </summary>
@@ -155,7 +155,7 @@ public class Util
         }
         return null;
     }
-
+    
     /// <summary>
     /// 查找同级go
     /// </summary>
@@ -182,7 +182,7 @@ public class Util
         }
         return null;
     }
-
+    */
     /// <summary>
     /// Base64编码
     /// </summary>
