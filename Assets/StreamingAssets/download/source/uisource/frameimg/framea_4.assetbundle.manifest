@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 266926257
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 58f044264eceb9975217d13581d0a0b0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd99c5e9ad8f0f80da6ba03142e9c82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/FrameImg/frameA_4.png
+Dependencies: []

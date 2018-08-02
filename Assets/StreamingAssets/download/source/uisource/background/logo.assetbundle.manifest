@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 3838460288
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c97f9468eb960fe3d676ad701661d2f9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0fd99c5e9ad8f0f80da6ba03142e9c82
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/BackGround/Logo.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3370446420
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e0e0e91ce07a0a5af1f1d4c704a3af24
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/Input_BG_01.png
+Dependencies: []

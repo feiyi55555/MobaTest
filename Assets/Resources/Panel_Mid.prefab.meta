@@ -1,10 +1,8 @@
 fileFormatVersion: 2
-guid: c3d68829014da8d47ae9f937bf504120
-timeCreated: 1533282083
+guid: 77dc5a69d43aff345be58924be067e15
+timeCreated: 1533132214
 licenseType: Pro
 NativeFormatImporter:
-  externalObjects: {}
-  mainObjectFileID: 100100000
   userData: 
   assetBundleName: panel_mid.assetbundle
-  assetBundleVariant: 
+  assetBundleVariant: assetbundle

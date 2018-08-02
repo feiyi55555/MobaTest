@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3638858402
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 538c0ecbb9b4e83d1cc09cd706ba95ca
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UIRole/BG_Cap.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3015973979
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bc942e9ad0efefcca0be231d0cd1b55b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UIRole/BG_Glove.png
+Dependencies: []

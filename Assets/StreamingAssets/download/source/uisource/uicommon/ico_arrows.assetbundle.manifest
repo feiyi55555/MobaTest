@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2089234706
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b34954a17d84ebcca063daf9476c713d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/Ico_Arrows.png
+Dependencies: []

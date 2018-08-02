@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1644574033
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 444b3590d55e152ec81e4bdd29944d53
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/GameLevel/GameLevelVictoryRole.png
+Dependencies: []

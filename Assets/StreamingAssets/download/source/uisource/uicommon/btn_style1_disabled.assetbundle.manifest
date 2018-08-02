@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 4217051848
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a2834763c87f5d4ee9a32a9b8a94f08f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/Btn_Style1_Disabled.png
+Dependencies: []

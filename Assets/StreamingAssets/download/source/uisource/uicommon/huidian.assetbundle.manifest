@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2583720541
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5c0f746ecd01b3cec7c532a5eaadbbb9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/huidian.png
+Dependencies: []

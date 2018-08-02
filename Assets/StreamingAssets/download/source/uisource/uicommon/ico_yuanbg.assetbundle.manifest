@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3354260803
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 17e9e939f02475d2d37eb138a588a2f6
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/Ico_YuanBG.png
+Dependencies: []

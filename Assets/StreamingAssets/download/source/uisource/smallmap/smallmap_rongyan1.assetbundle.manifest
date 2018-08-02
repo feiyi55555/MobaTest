@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 833188255
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9f4bb87c43e8f7616cbd015eec65ccf3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/SmallMap/SmallMap_RongYan1.png
+Dependencies: []

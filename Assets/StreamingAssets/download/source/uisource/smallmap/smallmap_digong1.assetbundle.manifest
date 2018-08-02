@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3418409986
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 613bc59d986c098b0c58613d53c8c13a
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/SmallMap/SmallMap_DiGong1.png
+Dependencies: []

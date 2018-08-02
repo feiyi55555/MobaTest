@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 604239649
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 40bde8eb7bb8a7f3c27b8ed7a77695f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/Btn_Style1_Pressed.png
+Dependencies: []

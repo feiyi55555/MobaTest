@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3009515203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 09c57c069a54bdd628a9db6a33a22bc4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UIRole/BG_Clothes.png
+Dependencies: []

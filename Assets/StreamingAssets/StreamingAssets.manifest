@@ -1,0 +1,513 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: download/source/uisource/gamelevel/gamelevelico/ioc_shangu.assetbundle
+      Dependencies: {}
+    Info_1:
+      Name: download/source/uisource/gamelevel/gamelevelvictoryrolefail.assetbundle
+      Dependencies: {}
+    Info_2:
+      Name: download/source/uisource/equipico/120222.assetbundle
+      Dependencies: {}
+    Info_3:
+      Name: download/source/uisource/worldmap/xuedi.assetbundle
+      Dependencies: {}
+    Info_4:
+      Name: download/source/uisource/uicommon/btn_style1_pressed.assetbundle
+      Dependencies: {}
+    Info_5:
+      Name: download/source/uisource/uicommon/titlebg_001.assetbundle
+      Dependencies: {}
+    Info_6:
+      Name: download/source/uisource/uicommon/slider2_f.assetbundle
+      Dependencies: {}
+    Info_7:
+      Name: download/source/uisource/gamelevel/gamelevelmap/01.assetbundle
+      Dependencies: {}
+    Info_8:
+      Name: download/source/uisource/uicommon/status_1.assetbundle
+      Dependencies: {}
+    Info_9:
+      Name: download/source/uisource/gamelevel/gamelevelvictoryrole.assetbundle
+      Dependencies: {}
+    Info_10:
+      Name: download/source/uisource/uirole/bg_belt.assetbundle
+      Dependencies: {}
+    Info_11:
+      Name: download/source/uisource/worldmap/hupaocun.assetbundle
+      Dependencies: {}
+    Info_12:
+      Name: download/source/uisource/headimg/headpic_role_zhanshi.assetbundle
+      Dependencies: {}
+    Info_13:
+      Name: download/source/uisource/equipico/120218.assetbundle
+      Dependencies: {}
+    Info_14:
+      Name: download/source/uisource/uicommon/huangdian.assetbundle
+      Dependencies: {}
+    Info_15:
+      Name: download/source/uisource/smallmap/smallmap_hupaocun.assetbundle
+      Dependencies: {}
+    Info_16:
+      Name: download/source/uisource/uiworldmap/uiworldmap.assetbundle
+      Dependencies: {}
+    Info_17:
+      Name: download/source/uisource/itemico/110302.assetbundle
+      Dependencies: {}
+    Info_18:
+      Name: download/source/uisource/uicommon/slider_exp.assetbundle
+      Dependencies: {}
+    Info_19:
+      Name: download/source/uisource/uicommon/ico_exp.assetbundle
+      Dependencies: {}
+    Info_20:
+      Name: download/source/uisource/materialico/132002.assetbundle
+      Dependencies: {}
+    Info_21:
+      Name: download/source/uisource/uicommon/bg_001.assetbundle
+      Dependencies: {}
+    Info_22:
+      Name: download/source/uisource/uicommon/npc_talk.assetbundle
+      Dependencies: {}
+    Info_23:
+      Name: download/source/uisource/uicommon/bg_002.assetbundle
+      Dependencies: {}
+    Info_24:
+      Name: download/source/uisource/skillico/skillpic_cike5.assetbundle
+      Dependencies: {}
+    Info_25:
+      Name: download/source/uisource/uicommon/btn_style1_highlighted.assetbundle
+      Dependencies: {}
+    Info_26:
+      Name: download/source/uisource/itemico/110301.assetbundle
+      Dependencies: {}
+    Info_27:
+      Name: download/source/uisource/uicommon/menu_bg_002.assetbundle
+      Dependencies: {}
+    Info_28:
+      Name: download/source/uisource/uirole/bg_amulet.assetbundle
+      Dependencies: {}
+    Info_29:
+      Name: download/source/uisource/equipico/120220.assetbundle
+      Dependencies: {}
+    Info_30:
+      Name: download/source/uisource/itemico/110307.assetbundle
+      Dependencies: {}
+    Info_31:
+      Name: download/source/uisource/uicommon/status_2.assetbundle
+      Dependencies: {}
+    Info_32:
+      Name: download/source/uisource/skillico/skillpic_cike1.assetbundle
+      Dependencies: {}
+    Info_33:
+      Name: download/source/uisource/uicommon/input_bg_01.assetbundle
+      Dependencies: {}
+    Info_34:
+      Name: download/source/uisource/gamelevel/gamelevelmap/07.assetbundle
+      Dependencies: {}
+    Info_35:
+      Name: download/source/uisource/skillico/skillpic_cike2.assetbundle
+      Dependencies: {}
+    Info_36:
+      Name: download/source/uisource/uicommon/bg_011.assetbundle
+      Dependencies: {}
+    Info_37:
+      Name: download/source/uisource/uimaincity/maincity_ranking.assetbundle
+      Dependencies: {}
+    Info_38:
+      Name: download/source/uisource/uimaincity/maincity_role.assetbundle
+      Dependencies: {}
+    Info_39:
+      Name: download/source/uisource/uirole/bg_shoe.assetbundle
+      Dependencies: {}
+    Info_40:
+      Name: download/source/uisource/background/logon_bg.assetbundle
+      Dependencies: {}
+    Info_41:
+      Name: download/source/uisource/gamelevel/gamelevelico/ico_guanai.assetbundle
+      Dependencies: {}
+    Info_42:
+      Name: download/source/uisource/uicommon/ico_arrows.assetbundle
+      Dependencies: {}
+    Info_43:
+      Name: download/source/uisource/gamelevel/victorybg2.assetbundle
+      Dependencies: {}
+    Info_44:
+      Name: download/source/uisource/skillico/skillpic_cike4.assetbundle
+      Dependencies: {}
+    Info_45:
+      Name: download/source/uisource/smallmap/smallmap_xuedi2.assetbundle
+      Dependencies: {}
+    Info_46:
+      Name: download/source/uisource/smallmap/smallmap_digong2.assetbundle
+      Dependencies: {}
+    Info_47:
+      Name: download/source/uisource/smallmap/smallmap_xuedi1.assetbundle
+      Dependencies: {}
+    Info_48:
+      Name: download/source/uisource/frameimg/framea_4.assetbundle
+      Dependencies: {}
+    Info_49:
+      Name: download/source/uisource/uicommon/ico_smallmaparr.assetbundle
+      Dependencies: {}
+    Info_50:
+      Name: download/source/uisource/uicommon/ico_tongqian.assetbundle
+      Dependencies: {}
+    Info_51:
+      Name: download/source/uisource/headimg/headpic_role_juchui.assetbundle
+      Dependencies: {}
+    Info_52:
+      Name: download/source/uisource/worldmap/shamo.assetbundle
+      Dependencies: {}
+    Info_53:
+      Name: download/source/uisource/materialico/132404.assetbundle
+      Dependencies: {}
+    Info_54:
+      Name: download/source/uisource/uicommon/ico_shaizi.assetbundle
+      Dependencies: {}
+    Info_55:
+      Name: download/source/uisource/uimaincity/maincity_worldmap.assetbundle
+      Dependencies: {}
+    Info_56:
+      Name: download/source/uisource/itemico/110306.assetbundle
+      Dependencies: {}
+    Info_57:
+      Name: download/source/uisource/materialico/132005.assetbundle
+      Dependencies: {}
+    Info_58:
+      Name: download/source/uisource/uicommon/slider_bg.assetbundle
+      Dependencies: {}
+    Info_59:
+      Name: download/source/uisource/worldmap/changan.assetbundle
+      Dependencies: {}
+    Info_60:
+      Name: download/source/uisource/uicommon/cancelautofight.assetbundle
+      Dependencies: {}
+    Info_61:
+      Name: download/source/uisource/equipico/120211.assetbundle
+      Dependencies: {}
+    Info_62:
+      Name: download/source/uisource/uimaincity/maincity_equip.assetbundle
+      Dependencies: {}
+    Info_63:
+      Name: download/source/uisource/uirole/bg_glove.assetbundle
+      Dependencies: {}
+    Info_64:
+      Name: download/source/uisource/uicommon/bg_009.assetbundle
+      Dependencies: {}
+    Info_65:
+      Name: download/source/uisource/gamelevel/victorytitle.assetbundle
+      Dependencies: {}
+    Info_66:
+      Name: download/source/uisource/uicommon/slider2_bg.assetbundle
+      Dependencies: {}
+    Info_67:
+      Name: download/source/uisource/gamelevel/gamelevelmap/03.assetbundle
+      Dependencies: {}
+    Info_68:
+      Name: download/source/uisource/smallmap/smallmap_shamo1.assetbundle
+      Dependencies: {}
+    Info_69:
+      Name: download/source/uisource/background/logo.assetbundle
+      Dependencies: {}
+    Info_70:
+      Name: download/source/uisource/uirole/bg_cuff.assetbundle
+      Dependencies: {}
+    Info_71:
+      Name: download/source/uisource/equipico/120212.assetbundle
+      Dependencies: {}
+    Info_72:
+      Name: download/source/uisource/itemico/110304.assetbundle
+      Dependencies: {}
+    Info_73:
+      Name: download/source/uisource/materialico/132401.assetbundle
+      Dependencies: {}
+    Info_74:
+      Name: download/source/uisource/uicommon/bg_010.assetbundle
+      Dependencies: {}
+    Info_75:
+      Name: download/source/uisource/gamelevel/gameleveldetail/gamelevel1.assetbundle
+      Dependencies: {}
+    Info_76:
+      Name: download/source/uisource/uicommon/bg_003.assetbundle
+      Dependencies: {}
+    Info_77:
+      Name: download/source/uisource/materialico/132001.assetbundle
+      Dependencies: {}
+    Info_78:
+      Name: download/source/uisource/equipico/120217.assetbundle
+      Dependencies: {}
+    Info_79:
+      Name: download/source/uisource/gamelevel/gamelevelico/ico_xuedi.assetbundle
+      Dependencies: {}
+    Info_80:
+      Name: download/source/uisource/smallmap/smallmap_rongyan2.assetbundle
+      Dependencies: {}
+    Info_81:
+      Name: download/source/uisource/uicommon/btn_style1_normal.assetbundle
+      Dependencies: {}
+    Info_82:
+      Name: download/source/uisource/gamelevel/gamelevelico/ico_pingyuan.assetbundle
+      Dependencies: {}
+    Info_83:
+      Name: download/source/uisource/uicommon/ico_status.assetbundle
+      Dependencies: {}
+    Info_84:
+      Name: download/source/uisource/itemico/110303.assetbundle
+      Dependencies: {}
+    Info_85:
+      Name: download/source/uisource/smallmap/smallmap_shangu3.assetbundle
+      Dependencies: {}
+    Info_86:
+      Name: download/source/uisource/frameimg/framea_1.assetbundle
+      Dependencies: {}
+    Info_87:
+      Name: download/source/uisource/smallmap/smallmap_shangu2.assetbundle
+      Dependencies: {}
+    Info_88:
+      Name: download/source/uisource/smallmap/smallmap_rongyan3.assetbundle
+      Dependencies: {}
+    Info_89:
+      Name: download/source/uisource/gamelevel/gamelevelmap/02.assetbundle
+      Dependencies: {}
+    Info_90:
+      Name: download/source/uisource/skillico/skillpic_cike3.assetbundle
+      Dependencies: {}
+    Info_91:
+      Name: download/source/uisource/uicommon/ico_skillbg.assetbundle
+      Dependencies: {}
+    Info_92:
+      Name: download/source/uisource/uicommon/bg_008 .assetbundle
+      Dependencies: {}
+    Info_93:
+      Name: download/source/uisource/worldmap/shangu.assetbundle
+      Dependencies: {}
+    Info_94:
+      Name: download/source/uisource/materialico/132403.assetbundle
+      Dependencies: {}
+    Info_95:
+      Name: download/source/uisource/uicommon/autofight.assetbundle
+      Dependencies: {}
+    Info_96:
+      Name: download/source/uisource/headimg/headpic_role_fashi.assetbundle
+      Dependencies: {}
+    Info_97:
+      Name: download/source/uisource/uicommon/ico_mp.assetbundle
+      Dependencies: {}
+    Info_98:
+      Name: download/source/uisource/gamelevel/gamelevelico/ico_shamo.assetbundle
+      Dependencies: {}
+    Info_99:
+      Name: download/source/uisource/uicommon/ico_start.assetbundle
+      Dependencies: {}
+    Info_100:
+      Name: download/source/uisource/uicommon/btn_close.assetbundle
+      Dependencies: {}
+    Info_101:
+      Name: download/source/uisource/gamelevel/failtitle.assetbundle
+      Dependencies: {}
+    Info_102:
+      Name: download/source/uisource/gamelevel/gamelevelmap/05.assetbundle
+      Dependencies: {}
+    Info_103:
+      Name: download/source/uisource/background/loading_bg.assetbundle
+      Dependencies: {}
+    Info_104:
+      Name: download/source/uisource/frameimg/framea_3.assetbundle
+      Dependencies: {}
+    Info_105:
+      Name: download/source/uisource/gamelevel/gamelevelmap/06.assetbundle
+      Dependencies: {}
+    Info_106:
+      Name: download/source/uisource/skillico/skillpic_cike6.assetbundle
+      Dependencies: {}
+    Info_107:
+      Name: download/source/uisource/uicommon/slider_mp.assetbundle
+      Dependencies: {}
+    Info_108:
+      Name: download/source/uisource/worldmap/digong.assetbundle
+      Dependencies: {}
+    Info_109:
+      Name: download/source/uisource/gamelevel/gamelevelvictorybg.assetbundle
+      Dependencies: {}
+    Info_110:
+      Name: download/source/uisource/smallmap/smallmap_digong1.assetbundle
+      Dependencies: {}
+    Info_111:
+      Name: download/source/uisource/gamelevel/gamelevelmap/04.assetbundle
+      Dependencies: {}
+    Info_112:
+      Name: download/source/uisource/equipico/120213.assetbundle
+      Dependencies: {}
+    Info_113:
+      Name: download/source/uisource/uicommon/bg_005.assetbundle
+      Dependencies: {}
+    Info_114:
+      Name: download/source/uisource/uicommon/btn_arrow_disable.assetbundle
+      Dependencies: {}
+    Info_115:
+      Name: download/source/uisource/uicommon/ico_hp_bg.assetbundle
+      Dependencies: {}
+    Info_116:
+      Name: download/source/uisource/equipico/120219.assetbundle
+      Dependencies: {}
+    Info_117:
+      Name: download/source/uisource/uicommon/ico_yuanbao.assetbundle
+      Dependencies: {}
+    Info_118:
+      Name: download/source/uisource/uicommon/status_0.assetbundle
+      Dependencies: {}
+    Info_119:
+      Name: download/source/uisource/uirole/bg_cap.assetbundle
+      Dependencies: {}
+    Info_120:
+      Name: download/source/uisource/uicommon/titlebg_002.assetbundle
+      Dependencies: {}
+    Info_121:
+      Name: download/source/uisource/background/init_bg.assetbundle
+      Dependencies: {}
+    Info_122:
+      Name: download/source/uisource/materialico/132402.assetbundle
+      Dependencies: {}
+    Info_123:
+      Name: download/source/uisource/uicommon/huidian.assetbundle
+      Dependencies: {}
+    Info_124:
+      Name: download/source/uisource/uicommon/btn_style1_disabled.assetbundle
+      Dependencies: {}
+    Info_125:
+      Name: download/source/uisource/uicommon/bg_012.assetbundle
+      Dependencies: {}
+    Info_126:
+      Name: download/source/uisource/gamelevel/resurgence.assetbundle
+      Dependencies: {}
+    Info_127:
+      Name: download/source/uisource/materialico/132003.assetbundle
+      Dependencies: {}
+    Info_128:
+      Name: download/source/uisource/smallmap/smallmap_pingyuan1.assetbundle
+      Dependencies: {}
+    Info_129:
+      Name: download/source/uisource/uimaincity/maincity_task.assetbundle
+      Dependencies: {}
+    Info_130:
+      Name: download/source/uisource/frameimg/framea_2.assetbundle
+      Dependencies: {}
+    Info_131:
+      Name: download/source/uisource/gamelevel/gamelevelico/ico_digong.assetbundle
+      Dependencies: {}
+    Info_132:
+      Name: download/source/uisource/headimg/headpic_role_cike.assetbundle
+      Dependencies: {}
+    Info_133:
+      Name: download/source/uisource/uimaincity/maincity_shop.assetbundle
+      Dependencies: {}
+    Info_134:
+      Name: download/source/uisource/equipico/120215.assetbundle
+      Dependencies: {}
+    Info_135:
+      Name: download/source/uisource/uicommon/ico_yuanbg.assetbundle
+      Dependencies: {}
+    Info_136:
+      Name: download/source/uisource/gamelevel/gameleveldetail/gamelevel3.assetbundle
+      Dependencies: {}
+    Info_137:
+      Name: download/source/uisource/worldmap/pingyuan.assetbundle
+      Dependencies: {}
+    Info_138:
+      Name: download/source/uisource/uicommon/ico_blood.assetbundle
+      Dependencies: {}
+    Info_139:
+      Name: download/source/uisource/uicommon/slider_hp.assetbundle
+      Dependencies: {}
+    Info_140:
+      Name: download/source/uisource/worldmap/hangzhou.assetbundle
+      Dependencies: {}
+    Info_141:
+      Name: download/source/uisource/uimaincity/maincity_gamelevel.assetbundle
+      Dependencies: {}
+    Info_142:
+      Name: download/source/uisource/equipico/120214.assetbundle
+      Dependencies: {}
+    Info_143:
+      Name: download/source/uisource/smallmap/smallmap_rongyan1.assetbundle
+      Dependencies: {}
+    Info_144:
+      Name: download/source/uisource/materialico/132004.assetbundle
+      Dependencies: {}
+    Info_145:
+      Name: download/source/uisource/uirole/bg_weapon.assetbundle
+      Dependencies: {}
+    Info_146:
+      Name: download/source/uisource/uimaincity/maincity_backpack.assetbundle
+      Dependencies: {}
+    Info_147:
+      Name: download/source/uisource/equipico/120216.assetbundle
+      Dependencies: {}
+    Info_148:
+      Name: download/source/uisource/uicommon/bg_006.assetbundle
+      Dependencies: {}
+    Info_149:
+      Name: download/source/uisource/uimaincity/maincity_kungfu.assetbundle
+      Dependencies: {}
+    Info_150:
+      Name: download/source/uisource/uicommon/bg_004.assetbundle
+      Dependencies: {}
+    Info_151:
+      Name: download/source/uisource/gamelevel/fightbegintitle.assetbundle
+      Dependencies: {}
+    Info_152:
+      Name: download/source/uisource/smallmap/smallmap_changan.assetbundle
+      Dependencies: {}
+    Info_153:
+      Name: download/source/uisource/uicommon/btn_arrow_down.assetbundle
+      Dependencies: {}
+    Info_154:
+      Name: download/source/uisource/itemico/110308.assetbundle
+      Dependencies: {}
+    Info_155:
+      Name: download/source/uisource/itemico/110305.assetbundle
+      Dependencies: {}
+    Info_156:
+      Name: download/source/uisource/equipico/120221.assetbundle
+      Dependencies: {}
+    Info_157:
+      Name: download/source/uisource/uicommon/bg_007.assetbundle
+      Dependencies: {}
+    Info_158:
+      Name: download/source/uisource/smallmap/smallmap_hangzhou.assetbundle
+      Dependencies: {}
+    Info_159:
+      Name: download/source/uisource/uimaincity/maincity_roleinfo.assetbundle
+      Dependencies: {}
+    Info_160:
+      Name: download/source/uisource/uirole/bg_clothes.assetbundle
+      Dependencies: {}
+    Info_161:
+      Name: download/source/uisource/uicommon/ico_hp.assetbundle
+      Dependencies: {}
+    Info_162:
+      Name: download/source/uisource/uicommon/bg_013.assetbundle
+      Dependencies: {}
+    Info_163:
+      Name: download/source/uisource/gamelevel/gameleveldetail/gamelevel2.assetbundle
+      Dependencies: {}
+    Info_164:
+      Name: download/source/uisource/materialico/132405.assetbundle
+      Dependencies: {}
+    Info_165:
+      Name: download/source/uisource/uifont/font_jcy.assetbundle
+      Dependencies: {}
+    Info_166:
+      Name: panel_begin.assetbundle
+      Dependencies:
+        Dependency_0: download/source/uisource/background/init_bg.assetbundle
+    Info_167:
+      Name: panel_end.assetbundle
+      Dependencies:
+        Dependency_0: download/source/uisource/background/logon_bg.assetbundle
+    Info_168:
+      Name: panel_mid.assetbundle.assetbundle
+      Dependencies:
+        Dependency_0: download/source/uisource/background/logon_bg.assetbundle

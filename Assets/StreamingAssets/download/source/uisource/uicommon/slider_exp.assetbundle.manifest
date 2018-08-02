@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1783323941
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f1834d906644bc31fc8e8e61e64b1507
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/slider_exp.png
+Dependencies: []

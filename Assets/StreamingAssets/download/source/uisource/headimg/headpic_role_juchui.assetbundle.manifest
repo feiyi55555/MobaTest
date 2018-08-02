@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1951164924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d0d961b3af0fd47abebdd3b747c84e3c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/HeadImg/headpic_role_juchui.png
+Dependencies: []

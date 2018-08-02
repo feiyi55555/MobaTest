@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3799696186
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: cea9b0608122d7bb05fadbf345d96797
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UIMainCity/MainCity_Backpack.png
+Dependencies: []

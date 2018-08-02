@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 80655317
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1abde7e8a6b7f81f233534452f79f7c7
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/Slider2_BG.png
+Dependencies: []

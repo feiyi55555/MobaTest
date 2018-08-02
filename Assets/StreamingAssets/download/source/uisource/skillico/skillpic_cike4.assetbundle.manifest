@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 112853924
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: dbb83c1ef24add2361decb95148acc6d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/SkillIco/skillpic_cike4.png
+Dependencies: []

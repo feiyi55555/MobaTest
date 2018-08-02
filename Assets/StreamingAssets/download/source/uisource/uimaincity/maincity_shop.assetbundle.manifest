@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3562055918
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c6dbc7c429223c7a5d0ad345c5fb3406
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UIMainCity/MainCity_Shop.png
+Dependencies: []

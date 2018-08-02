@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 3950694461
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bad7d6a6fef81cf63f3458ec46b0c45b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UIMainCity/MainCity_Task.png
+Dependencies: []

@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 160724967
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2c5948c2390d8551aa78cc5016cdd747
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/ItemIco/110308.png
+Dependencies: []

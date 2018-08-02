@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 179207251
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 3a884df290f3e6e0e07877d691840650
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/SmallMap/SmallMap_ShaMo1.png
+Dependencies: []

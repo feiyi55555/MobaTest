@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 2030665591
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 83c6cd20673bb57b62125babe6e70e04
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UIMainCity/MainCity_Kungfu.png
+Dependencies: []

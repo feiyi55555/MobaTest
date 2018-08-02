@@ -1,0 +1,18 @@
+ManifestFileVersion: 0
+CRC: 1531515284
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 7fa365401eaddb3a010c127ea6f82f78
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 75957c18d05791510cbdd301a328d69f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UISource/UICommon/BG_003.png
+Dependencies: []

@@ -61,7 +61,7 @@ public class Util
         TimeSpan ts = new TimeSpan(DateTime.UtcNow.Ticks - new DateTime(1970, 1, 1, 0, 0, 0).Ticks);
         return (long)ts.TotalMilliseconds;
     }
-    /*
+    
     /// <summary>
     /// 获得Component
     /// </summary>
@@ -182,7 +182,7 @@ public class Util
         }
         return null;
     }
-    */
+    
     /// <summary>
     /// Base64编码
     /// </summary>
@@ -335,11 +335,44 @@ public class Util
     {
         get
         {
-            string name = AppConst.AppName.ToLower();
+            string game = AppConst.AppName.ToLower();
             if (Application.isMobilePlatform)
-                return Application.persistentDataPath + "/" + name + "/"; // 移动平台可读写目录
+                return Application.persistentDataPath + "/" + game + "/"; // 移动平台可读目录
             else
                 return Application.dataPath + "/" + AppConst.AssetDirName + "/"; // 桌面平台就是Asset目录
         }
+    }
+
+    public static bool NetAvailable
+    {
+        get { return Application.internetReachability != NetworkReachability.NotReachable; }
+    }
+
+    public static bool IsWifi
+    {
+        get { return Application.internetReachability == NetworkReachability.ReachableViaLocalAreaNetwork; }
+    }
+
+    public static string AppContentPath()
+    {
+        string path = string.Empty;
+        switch (Application.platform)
+        {
+            case RuntimePlatform.Android:
+                path = "jar:file://" + Application.dataPath + "!/assets/";
+                break;
+            case RuntimePlatform.IPhonePlayer:
+                path = Application.dataPath + "/Raw/";
+                break;
+            default:
+                path = Application.dataPath + "/" + AppConst.AssetDirName + "/";
+                break;
+        }
+        return path;
+    }
+
+    public static void Log(string log) 
+    {
+        Debug.Log(log);
     }
 }
